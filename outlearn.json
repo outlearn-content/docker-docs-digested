@@ -9,7 +9,7 @@
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
       "privacy" : "public",
       "pages" : [
-        {"module" : "sample-module"}
+        {"module" : "catalog/what-is-docker-and-why-its-cool-foorious"}
       ]
     }
   ],
