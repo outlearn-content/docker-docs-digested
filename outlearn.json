@@ -9,13 +9,15 @@
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
       "privacy" : "public",
       "pages" : [
-        {"module" : "catalog/what-is-docker-and-why-its-cool-foorious"}
+        {"module" : "catalog/what-is-docker-and-why-its-cool-foorious"},
+        {"module" : "docker/installation-ubuntu"},
+        {"module" : "docker/installation-mac"},
+        {"module" : "docker/installation-windows"}
       ]
     }
   ],
 
   "modules" : [
-    {"olm" : "./modules/sample-module.md"}
   ],
 
   "assets" : [
