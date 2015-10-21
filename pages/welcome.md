@@ -2,11 +2,11 @@
 
 Docker has great official documentation but let's be honest, there's just so much of it! This Path will get you started fast and point you to the key docs to read first. In the end, you'll have a good overview and will know where to go to dive deeper.
 
-The first module gives you a nice overview of why Docker. If you love to know the history of things, check out [A brief history of Docker Containers' overnight success](http://searchservervirtualization.techtarget.com/feature/A-brief-history-of-Docker-Containers-overnight-success). And if you want an additional take on the basics of Docker, [Understanding Docker](https://docs.docker.com/introduction/understanding-docker/) from the official docs is good.
+The first module gives you a nice overview of why use Docker. If you love to know the history of things, check out [A brief history of Docker Containers' overnight success](http://searchservervirtualization.techtarget.com/feature/A-brief-history-of-Docker-Containers-overnight-success). And if you want an additional take on the basics of Docker, [Understanding Docker](https://docs.docker.com/introduction/understanding-docker/) from the official docs is good.
 
 Next, you will see installation instructions. If you want more detailed guidance, Docker has a great Get Started with Docker section for [Linux](https://docs.docker.com/linux/started/), [Mac OS X](https://docs.docker.com/mac/started/), and [Windows](https://docs.docker.com/windows/started/).
 
-After installation, I've included the overview page of the Docker user guide. It gives you a good sense of the key components available in the Docker ecosystem and has links to more docs when you want them. 
+After installation, I've included the overview page of the Docker user guide. It gives you a good sense of the key components available in the Docker ecosystem and has links to more docs when you want them.
 
 Let's get going!  
 Adron
