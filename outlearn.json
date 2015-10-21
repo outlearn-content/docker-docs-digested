@@ -6,7 +6,7 @@
       "name" : "docker-docs-digested-basics",
       "title" : "Docker Docs Digested - Basics",
       "description" : "Get started fast with the most important parts of Docker's official documentation.",
-      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/docker-docs-digested/master/assets/sea.jpg",
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"}
