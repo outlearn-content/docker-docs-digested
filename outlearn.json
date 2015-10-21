@@ -9,7 +9,7 @@
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/docker-docs-digested/master/assets/sea.jpg",
       "privacy" : "public",
       "pages" : [
-        {"page" : "./pages/welcome.md"}
+        {"page" : "./pages/welcome.md"},
         {"module" : "catalog/what-is-docker-and-why-its-cool-foorious"},
         {"module" : "docker/installation-ubuntu"},
         {"module" : "docker/installation-mac"},
