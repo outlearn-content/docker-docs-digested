@@ -14,6 +14,23 @@
         {"module" : "docker/installation-ubuntu"},
         {"module" : "docker/installation-mac"},
         {"module" : "docker/installation-windows"}
+        {"module" : "guide"},
+        {"page" : "./pages/images.md"},
+        {"module" : "baseimages"},
+        {"module" : "dockerimages"},
+        {"module" : "dockerrepos"},
+        {"page" : "./pages/containers.md"},
+        {"module" : "basics"},
+        {"module" : "usingdocker"},
+        {"module" : "dockervolumes"},
+        {"module" : "dockerlinks"},
+        {"module" : "host-integration"},
+        {"page" : "./pages/kitematic-and-machine.md"},
+        {"module" : "kitematic-userguide"},
+        {"module" : "machine"},
+        {"page" : "./pages/misconceptions.md"},
+        {"module" : "catalog/docker-misconceptions"},
+        {"page" : "./pages/next.md"}
       ]
     }
   ],
