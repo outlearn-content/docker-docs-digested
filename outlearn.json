@@ -13,7 +13,7 @@
         {"module" : "catalog/what-is-docker-and-why-its-cool-foorious"},
         {"module" : "docker/installation-ubuntu"},
         {"module" : "docker/installation-mac"},
-        {"module" : "docker/installation-windows"}
+        {"module" : "docker/installation-windows"},
         {"module" : "guide"},
         {"page" : "./pages/images.md"},
         {"module" : "baseimages"},
